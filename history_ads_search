@@ -1,39 +1,24 @@
 
-# 2020-02-19 09:50:47.778239
-+author:"^Vedantham"
+# 2020-03-30 13:21:41.450238
++author:"huang, chelsea"
 
-# 2020-02-19 09:52:05.758199
-+author:"^Vedantham" year:2020
+# 2021-02-08 10:23:30.625149
++author:"^"
 
-# 2020-02-19 09:52:24.500965
-+author:"^Vedantham"
+# 2021-02-08 10:23:56.110003
++author:"^bonsor, amy" year:2021
 
-# 2020-02-19 09:57:45.812632
-+author:"^Gomez"
+# 2021-08-30 11:53:14.689829
++author:"^Newton" year:2016
 
-# 2020-02-19 09:58:07.779691
-+author:"^Gomez" year:2005 author:"Ferro-Fontan"
+# 2021-08-30 11:56:20.609691
++ author:"^Newton, E." year:2016
 
-# 2020-02-19 09:58:30.658215
-+author:"^Gomez de Castro" year:2005 author:"Ferro-Fontan"
+# 2021-08-30 11:59:36.723388
++author:"Newton, Elizabeth" year:2016 property:refereed
 
-# 2020-02-19 09:59:54.821949
-+2005MNRAS.362..569G
+# 2021-08-30 12:00:12.376967
++author:"^"
 
-# 2021-07-26 16:58:59.862980
-+author:"^Rogers" propery:refereed year:2021
-
-# 2021-07-26 16:59:32.543128
-+author:"^Rogers" year:2021
-
-# 2021-07-26 17:00:53.121029
-+author:"^MacGregor" year:2021
-
-# 2021-07-26 17:03:36.564723
-+author:"^Jafarzadeh" year:2019
-
-# 2021-07-26 17:22:24.733993
-+author:"^Spake" year:2021
-
-# 2021-07-26 17:38:41.671181
-+author:"^Warren" year:1998 property:refereed
+# 2021-08-30 12:01:53.687974
++author:"^Newton, E." year:2016 property:refereed
