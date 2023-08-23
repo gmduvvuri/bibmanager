@@ -274,3 +274,45 @@
 
 # 2022-08-22 16:33:07.644732
 +Loyd:2022 tags: fuv
+
+# 2023-08-23 13:17:20.293699
++Adams:2016 detection transit ultra-short_period_planets
+
+# 2023-08-23 13:17:41.503738
++Adams:2016 tags: detection transit ultra-short_period_planets
+
+# 2023-08-23 13:18:38.142347
++Adams:2016 tags: exoplanets:detection exoplanets:transit exoplanets:ultra-short_period
+
+# 2023-08-23 13:19:19.259354
++Adams:2021 tags: detection planet_occurrence transit ultra-short_period_planets
+
+# 2023-08-23 13:19:36.439281
++Adams:2021 tags: exoplanets:detection exoplanets:transit exoplanets:ultra-short_period
+
+# 2023-08-23 13:19:59.588246
++Agol:2005 tags: detection ttv
+
+# 2023-08-23 13:20:16.337629
++Agol:2005 tags: exoplanets:detection exoplanets:ttv
+
+# 2023-08-23 13:21:19.654919
++Airapetian:2017 tags: atmospheric_escape modelling m_dwarfs k_dwarfs proxima_cen_b
+
+# 2023-08-23 13:22:04.442539
++Airapetian:2017 tags: atmospheres:escape atmospheres:escape:modelling M_dwarfs K_dwarfs Proxima_Cen_b
+
+# 2023-08-23 13:24:01.298436
++Allard:2012 tags: m_dwarfs modelling
+
+# 2023-08-23 13:46:50.128422
++GuChen:2023_Deuterium_Photoevaporative_Escape tags: exoplanets:atmospheres:escap
+
+# 2023-08-23 13:47:47.880041
++GuChen:2023_Deuterium_Photoevaporative_Escape tags: atmospheres:escape:modelling
+
+# 2023-08-23 13:48:07.516471
++GuChen:2023_Deuterium_Photoevaporative_Escape tags: atmospheres:escape:photoevaporative
+
+# 2023-08-23 13:50:08.316245
++Rekhi:2023_NUV_Flares_gPhoton2 tags: software GALEX:gPhoton2
